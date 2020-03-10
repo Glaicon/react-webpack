@@ -1,5 +1,7 @@
-<h1>#Project React with Webpack<h1>
+<h1>#Project React with Webpack</h1>
 
-<h2>Init project<h2>
+<h2>#Init project</h2>
 
--- npm install
+<label>-- npm install</label>
+
+<label>Webpack configuration initial.</label>
