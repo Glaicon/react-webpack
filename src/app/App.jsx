@@ -8,7 +8,8 @@ class App extends React.Component {
       <div className='App'>
         <header className='App-header'>
           <img src={logo} className='App-logo' alt='logo' />
-          <p>Learn React with Webpack to created bundles!</p>
+          <p>Learn React with Webpack to creating initial bundles!</p>
+          <p>Generate production and development bundles!</p>
         </header>
       </div>
     )
