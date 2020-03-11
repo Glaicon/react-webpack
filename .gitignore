@@ -1,0 +1,14 @@
+node_modules
+.vscode
+.git
+*.log
+*.exe
+*.suo
+*.ide
+.eslintrc
+bin/
+obj/
+bundle/
+.vs/
+package-lock.json
+dist/
