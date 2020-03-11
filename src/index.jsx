@@ -1,10 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-const rootElement = document.getElementById('root');
+import App from './app/App.jsx'
+import './app/theme/css/index.css'
 
-ReactDOM.render(
-    <h1>TESTE</h1>
-   ,
-    rootElement
-)
+const rootElement = document.getElementById('root')
+
+ReactDOM.render(<App />, rootElement)
